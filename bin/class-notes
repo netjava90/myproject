@@ -1,0 +1,65 @@
+java is all about classes and objects
+
+java is highly typed language
+
+class is a blue print
+
+object: is and instance of a class
+
+syntax: ClassName objectiveName = new ClassName();
+
+method (function) is reusable block of code that runs when called
+
+class attributes 
+		1- variables:
+		variableType variableName = VariableValue
+		int number1 = 10;
+		int number2 = 23;
+		
+		2-method structure:
+		methodType methodName () {code to execute}
+		
+		method types (int, char, boolean, String, ..etc) 
+		void method doesn't exist in variables.
+		
+		we have two types of methods (1-return methods and 2-non return methods)
+		
+		parameterisation: method by parameters 
+		cToF(23) replace by cToF(int c)
+		in the use cal we put (23)
+		
+		int surface () into int surface (int length, int width)
+		replace the value directly in the use cal
+		
+		hard coded values exm (int length = 3872)
+		
+		coversion from int to double is done automatically by java and we call it up casting
+		
+		going from a lower variable type to higher one
+		down casting higher variable type to a lower one
+		
+		generic we can use it for multiple things(cases)
+		non generic can be used only one time.
+		
+		a class vs object (instance)
+		fruit vs specific fruit (appl)
+		
+		constructor vs object
+		if taxi is the object, tlc is the constructor (the rules)
+		
+		we can create multiple constructors but we can have two constructors with the same parameters.
+		
+		two type of modifiers in java: (access modifiers and non access modifiers)
+		
+		if the constructor is default we can only access it in the same package.
+		build constructor aren't accessible from other packages unless if you make them public
+		
+		a class can not be private ....the accessibility is about class. 
+		class can be public or default only it can't be private
+		
+		private is related to class
+		default is related to package
+		protected is related to subclass
+		public is everywhere.
+		
+		

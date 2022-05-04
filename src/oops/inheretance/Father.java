@@ -1,15 +1,18 @@
 package oops.inheretance;
 
-public class Father {
-	//Father is a super class
+public class Father extends GrandFather{
 	
-   public void height() {
-	   System.out.println("7 feet")
-   }
+//Father is super class
 	
-	public viod athletic() {
-		System.out.println
+	public void height() {
+		System.out.println("7 feet");
 	}
+ 
+    public void athlelic() {
+    	System.out.println("practices sport");
+    	
+    }
+
 }
 
 

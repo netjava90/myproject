@@ -94,7 +94,9 @@ public class Variables {
 		//java logic
 		System.out.println(10<9);
 		
-		
+		//final you can not reassign this value again. can be applied to methods and classes.
+		final int age = 20;
+		//age = 25; can't do because age is final
 		
 		
 	}

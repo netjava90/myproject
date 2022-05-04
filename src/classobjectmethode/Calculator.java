@@ -48,13 +48,13 @@ public class Calculator {
        
          
          //void type no return method
-         //non generique use one time only.
+         //non generic use one time only.
          void substration() {
         	 int total = number1 - number2;
         	 System.out.println(total);
         	 
           }
-         //generique (give it whatever value you want.
+         //generic (give it whatever value you want.
          void addition(int num1, int num2) {
         	 int total = num1 + num2;
         	 System.out.println(total);

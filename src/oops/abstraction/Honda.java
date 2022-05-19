@@ -11,7 +11,7 @@ public class Honda extends ModernCar implements Car, Motor{
 
 	public void stop() {
 		
-		System.out.println("auto stop") {
+		System.out.println("auto stop"); 
 		
 	}
 

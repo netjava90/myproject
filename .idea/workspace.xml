@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50ed8635-2bf4-4cab-bd54-59a2c0861060" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/UseHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/UseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/compilertime/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/compilertime/ReadFile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/runtime/Calcolator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedclass/TestOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchstatement/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchstatement/TestDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchstatement/Week.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/assignment/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/breakcontinue/Break.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/breakcontinue/Countinue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/class-notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classobjectconstructor/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classobjectconstructor/UseHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classobjectmethode/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classobjectmethode/UseCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/conditions/IfStatment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/datatype/nonprimitive/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/getstarted/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loops/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loops/ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loops/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loops/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/ModernCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Motor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/TestCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/encapsulation/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/encapsulation/TestMovie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/GrandFather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/TestHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/ModernCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/TestCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/salem/project1/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/statickyeword/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/statickyeword/TestHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/switchstatement/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/variables/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class-notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/class-notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getstarted/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/abstraction/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/abstraction/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/salem/project1/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29DN0WwProZnnAI8m0gD2KjMQWD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sayma/eclipse-workspace/salem.project1&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TestDay">
+    <configuration name="Countinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="breakcontinue.Countinue" />
+      <module name="salem.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="breakcontinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.compilertime.ReadFile" />
+      <module name="salem.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.compilertime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchstatement.TestDay" />
+      <module name="salem.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="switchstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variables.Variables" />
+      <module name="salem.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDay" />
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.Countinue" />
+        <item itemvalue="Application.Variables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ed8635-2bf4-4cab-bd54-59a2c0861060" name="Changes" comment="" />
+      <created>1652643473723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652643473723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -21,23 +21,37 @@ public class Variables {
 		//numbers
 		    //wholes numbers 
 		byte b = 123; //1 byte //takes up to 127
+		Byte by = 10; //class based variables that wrapping up the primitive 
+		
 		short s = 2542; //2 bytes
+		Short sho = 524;
+		
 		int x = 1; //4 bytes
-		long l = 65425l; //8 bytes
+		Integer integer = 14567;
+		
+		long l = 65425L; //8 bytes
+		long lo = 657376L; 
 		
 		//variable declaration
 		int i;
 		i = 52;
 		
-		     //fractions 
+		      //fractions 
 		float f = 1.255454F; //4 bytes
+		Float flo = 1.74647F;
+		
 		double d = 1.12445; //8 bytes
+		Double dou = 1.98646463;
 		
 		//character 
 		char a = '$'; // 2 bytes
 		char c = '+';
+		Character character = '+';
 		//boolean
 		boolean boo = true; //1 bit (1/8) byte
+		Boolean bool = false; 
+		
+		
 		
 		//chain of characters
 		String str = "hdvfvjdfkvjfvhwefoievj";

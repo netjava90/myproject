@@ -2,72 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50ed8635-2bf4-4cab-bd54-59a2c0861060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/UseHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/UseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/compilertime/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/compilertime/ReadFile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/runtime/Calcolator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedclass/TestOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/TestSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchstatement/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchstatement/TestDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchstatement/Week.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/assignment/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/breakcontinue/Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/breakcontinue/Countinue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/class-notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/classobjectconstructor/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/classobjectconstructor/UseHouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/classobjectmethode/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/classobjectmethode/UseCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/conditions/IfStatment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/datatype/nonprimitive/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/getstarted/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/loops/DoWhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/loops/ForEachLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/loops/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/loops/WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Honda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/ModernCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/TestCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/abstraction/Toyota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/encapsulation/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/encapsulation/TestMovie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/GrandFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/Mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/inheretance/TestHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/ModernCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/oops/polymorphism/TestCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/salem/project1/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/statickyeword/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/statickyeword/TestHuman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/switchstatement/Day.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/variables/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class-notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/class-notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/getstarted/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/abstraction/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/abstraction/Honda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/salem/project1/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.12.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/failsafe-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mongo-java-driver-3.12.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-buffer-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-codec-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-codec-http-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-codec-socks-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-handler-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-handler-proxy-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-resolver-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-classes-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-classes-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-native-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-native-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-transport-native-unix-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-api-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-context-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-exporter-logging-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-common-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-logs-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-metrics-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-trace-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-semconv-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-api-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-api-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-chrome-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-chrome-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-chromium-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-chromium-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v100-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v100-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v101-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v101-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v85-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v85-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v99-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v99-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-edge-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-edge-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-firefox-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-firefox-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-http-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-http-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-ie-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-ie-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-java-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-java-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-json-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-json-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-opera-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-opera-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-remote-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-remote-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-safari-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-safari-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-support-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium-support-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selenium/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salem.project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/salem.project1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,14 +115,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sayma/eclipse-workspace/salem.project1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/sayma/eclipse-workspace/Selenium-April2022",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestDay">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="selenium" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sayma\eclipse-workspace\salem.project1\lib" />
+      <recent name="C:\Users\sayma\eclipse-workspace\salem.project1\src\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sayma\eclipse-workspace\salem.project1\src\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.test">
     <configuration name="Countinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="breakcontinue.Countinue" />
       <module name="salem.project1" />
@@ -140,8 +190,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="salem.project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.test" />
         <item itemvalue="Application.TestDay" />
         <item itemvalue="Application.ReadFile" />
         <item itemvalue="Application.Countinue" />
@@ -170,5 +237,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/switchstatement/TestDay.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
